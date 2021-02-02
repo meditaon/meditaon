@@ -16,8 +16,8 @@
 10. Lecturas recomendadas
 11. Siguiente Nivel
 
-# Licencia
 ## No Copyright
+Este proyecto se encuentra en el dominio público - mira el archivo [LICENSE](LICENSE) para detalles
 
 El contenido de este sitio, todos los libros, audio y cosas publicados acá y generados por mi, no tienen derechos de autor, no soy su propietario ni existen licencias o restricciones de distribución.
 
