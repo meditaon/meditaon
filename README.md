@@ -2,19 +2,35 @@
 ## Una guía de meditación práctica. Libre, Gratis y en Español.
 
 
-### Empezá a meditar
+## Empezá a meditar
 
-1. ¿Por qué Meditar?
-2. Técnica básica de meditación
-3. Postura
-4. Respiración
-5. Pensamiento
-6. Meditación guiada
-7. Desafíos
-8. Efectos Secundarios
-9. Estilos de práctica
-10. Lecturas recomendadas
-11. Siguiente Nivel
+### 1. ¿Por qué Meditar?
+No hay por qué. Pero si sos como yo, te sentís ansiosa frecuentemente. También puede ser que te sea difícil lidiar con las distracciones.
+
+### 2. Técnica básica de meditación
+Meditar es más simple de lo que te imaginás. Encontrá un lugar dónde no te distraigas durante la práctica, poné el móvil en modo avión y un timer en 10 minutos.
+
+### 6. Meditación guiada
+Meditar es más simple de lo que te imaginás. Encontrá un lugar dónde no te distraigas durante la práctica, poné el móvil en modo avión y un timer en 10 minutos.
+
+### 7. Desafíos
+Puede ser que meditar no sea para vos.
+
+### 8. Efectos Secundarios
+En general, se considera que la meditación es segura  en personas sanas.
+
+### 9. Estilos de práctica
+Meditación es una palabra que viene del latín, y significa algo así como contemplación o reflexión. Hay diferentes tipos de meditación, y cada uno puede hacer «la suya».
+
+### 10. Lecturas recomendadas
+No hace falta leer nada más. Pero si sos como yo y querés entender cómo funciona realmente la meditación, estoy recopilando una lista de recursos de meditación.
+
+### 11. Siguiente Nivel
+Si lo hiciste durante 26 días, y no 30, volvé a empezar hasta que tengas 30 días de práctica consecutivos.
+
+
+***
+
 
 ## No Copyright
 Este proyecto se encuentra en el dominio público - mira el archivo [LICENSE](LICENSE) para detalles
@@ -34,3 +50,13 @@ Como muchos otros, creo en un momento creativo en el que las ideas, en lugar de 
 Agradezco a los que vienen después que nosotros y a los que vinieron antes, aquellos cuyo trabajo, ideas y contribuciones inspiran el nuestro. Eso es el No Copyright.
 
 Si pensabas que algo es tuyo. Pensá de nuevo. Pensemos de nuevo.
+
+## Autor
+**Dario Space** - [dariospace](https://github.com/dariospace)
+
+¿Preguntas? ¿Sugerencias? ¿Feedback? Enviame un mail a dariospaceman@gmail.com
+
+## Referencias
+Este proyecto fue adaptado de [lightly](https://github.com/lightly-io/)
+
+Podés encontrar más sobre meditaon en [meditaon](http://meditaon.com)
