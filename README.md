@@ -10,22 +10,22 @@ No hay por qué. Pero si sos como yo, te sentís ansiosa frecuentemente. Tambié
 ### 2. Técnica básica de meditación
 Meditar es más simple de lo que te imaginás. Encontrá un lugar dónde no te distraigas durante la práctica, poné el móvil en modo avión y un timer en 10 minutos.
 
-### 6. Meditación guiada
+### 3. Meditación guiada
 Meditar es más simple de lo que te imaginás. Encontrá un lugar dónde no te distraigas durante la práctica, poné el móvil en modo avión y un timer en 10 minutos.
 
-### 7. Desafíos
+### 4. Desafíos
 Puede ser que meditar no sea para vos.
 
-### 8. Efectos Secundarios
+### 5. Efectos Secundarios
 En general, se considera que la meditación es segura  en personas sanas.
 
-### 9. Estilos de práctica
+### 6. Estilos de práctica
 Meditación es una palabra que viene del latín, y significa algo así como contemplación o reflexión. Hay diferentes tipos de meditación, y cada uno puede hacer «la suya».
 
-### 10. Lecturas recomendadas
+### 7. Lecturas recomendadas
 No hace falta leer nada más. Pero si sos como yo y querés entender cómo funciona realmente la meditación, estoy recopilando una lista de recursos de meditación.
 
-### 11. Siguiente Nivel
+### 8. Siguiente Nivel
 Si lo hiciste durante 26 días, y no 30, volvé a empezar hasta que tengas 30 días de práctica consecutivos.
 
 
