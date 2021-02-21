@@ -1,6 +1,7 @@
 # Meditaon
 ## Una guía de meditación práctica. Libre, Gratis y en Español.
 
+Aprendé a meditar practicando. Es Open Source, Libre, Gratis y en Español.
 
 ## Empezá a meditar
 
